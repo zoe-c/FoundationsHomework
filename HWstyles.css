@@ -2,7 +2,20 @@
   color: #F44920;
   font-family: sans-serif;
   text-decoration:none;
+  padding:10px;
 }
+
+.small-pink-color{
+  color:#F78688;
+  font-family:sans-serif;
+  text-decoration:none;
+}
+/*hover effects for links at top and bottom*/
+a:hover{
+  color:#9A1C03;
+  text-decoration:underline;
+}
+
 
 .outer-container{
   background:linear-gradient(to right,#CD0063, #EC311D);
