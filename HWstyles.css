@@ -15,4 +15,15 @@ h1{
 
 h2{
   color:#412A24;
+  font-family: sans-serif;
+}
+
+.bottom-bar-header{
+  background-color: #FCE5EB;
+  text-align:center;
+}
+
+h3{
+  color:white;
+  font-family: sans-serif;
 }
