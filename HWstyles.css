@@ -1,3 +1,15 @@
+.orange-color{
+  color: #F44920;
+  font-family: sans-serif;
+}
+
 .outer-container{
   background-color:red;
+}
+
+h1{
+  color: white;
+  font-family: sans-serif;
+  text-align:right;
+
 }
