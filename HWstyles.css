@@ -5,10 +5,13 @@
   padding:10px;
 }
 
+/*why wont the text align work?*/
 .small-pink-color{
   color:#F78688;
   font-family:sans-serif;
+  text-align:right;
   text-decoration:none;
+
 }
 /*hover effects for links at top and bottom*/
 a:hover{
