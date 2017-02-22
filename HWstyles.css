@@ -5,7 +5,7 @@
 }
 
 .outer-container{
-  background-color:red;
+  background:linear-gradient(to right,#CD0063, #EC311D);
 }
 
 h1{
