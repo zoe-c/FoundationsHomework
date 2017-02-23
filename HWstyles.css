@@ -54,3 +54,15 @@ h5{
   color:white;
   font-family:sans-serif;
 }
+
+.white-link-color-background {
+  color:white;
+  font-family:sans-serif;
+  text-decoration:none;
+}
+
+.center-converse{
+  display:inline-block;
+  width:50%;
+  margin:5px 25%;
+}
