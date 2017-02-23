@@ -1,25 +1,26 @@
-.orange-color{
+/*------LINK EDITS-------*/
+.span-1-orange a{
   color: #F44920;
   font-family: sans-serif;
   text-decoration:none;
   padding:10px;
+  border: 5px solid black
 }
 
-/*why wont the text align work?*/
-.small-pink-color{
+.span-2-pink a{
   color:#F78688;
   font-family:sans-serif;
   text-align:right;
   text-decoration:none;
-
 }
-/*hover effects for links at top and bottom*/
+
+/*hover effects for links*/
 a:hover{
   color:#9A1C03;
   text-decoration:underline;
 }
 
-
+/*-----------CONTAINER EDITS------------*/
 .outer-container{
   background:linear-gradient(to right,#CD0063, #EC311D);
 }
@@ -35,7 +36,7 @@ h2{
   font-family: sans-serif;
 }
 
-.bottom-bar-header{
+.bottom-bar-container{
   background-color: #FCE5EB;
   text-align:center;
 }
