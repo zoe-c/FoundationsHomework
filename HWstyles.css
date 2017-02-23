@@ -117,3 +117,9 @@ h5{
   font-family:sans-serif;
   text-decoration:none;
 }
+
+.bottom-shoes-center{
+  display:inline-block;
+  width:50%;
+  margin:5px 25%;
+}
