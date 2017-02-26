@@ -1,6 +1,7 @@
 body{
   margin:0;
   padding:0;
+  width:100%;
 }
 
 .logo-shoe{
@@ -60,7 +61,11 @@ a:hover{
 .topTextblock-a{
   display:inline-block;
   float:right;
-  margin-right:20%;
+  margin-left:0px;
+  margin-top:10px;
+  margin-right:10%;
+  margin-bottom:20px;
+  width:30%;
   border: 4px solid black;
 }
 
@@ -68,15 +73,16 @@ a:hover{
   display:inline-block;
   color:white;
   font-family:sans-serif;
+  font-size:35px;
   border: 4px solid black;
 }
 
 .center-converse{
   display:inline-block;
-  width:50%;
+  width:45%;
   margin-left:10%;
   margin-top:10px;
-  margin-right:10px;
+  margin-right:auto;
   margin-bottom:20px;
   border: 4px solid black;
 }
@@ -130,8 +136,8 @@ h5{
   text-decoration:none;
 }
 
-.bottom-shoes-center{
+.bottomShoes{
   display:inline-block;
-  width:50%;
-  margin:5px 25%;
+  width:20%;
+
 }
