@@ -54,7 +54,7 @@ a:hover{
 }
 
 .outer-container{
-  background:linear-gradient(to right,#CD0063, #EC311D);
+  background:linear-gradient(to right,#CD0063, #F53B09);
   padding:5px;
 }
 
@@ -67,6 +67,11 @@ a:hover{
   margin-bottom:5%;
   width:30%;
   /*border: 4px solid black;*/
+}
+
+.topTextblock-a h5{
+  border-bottom:5px dashed #9A1D2A;
+  padding-bottom: 10px;
 }
 
 .productDescription{
@@ -87,8 +92,10 @@ a:hover{
   /*border: 4px solid black;*/
 }
 
+/*h1 Quick Sneakers*/
 h1{
   margin-bottom:5px;
+  /*border-bottom:5px dashed #9A1D2A;*/
   color: white;
   font-family: sans-serif;
   font-size: 90px;
@@ -96,6 +103,7 @@ h1{
   text-align:left;
 }
 
+/*Exciting Topic/ Find Your Shoe Size/ What Our Customers are Saying*/
 h2{
   color:#412A24;
   font-size:50px;
@@ -111,11 +119,14 @@ h2{
   width:100%;
 }
 
+/*Bottom Shoe Labels: Funny, Nimble, Cute*/
 h3{
   color:white;
+  font-size:50px;
   font-family: sans-serif;
 }
 
+/*SPRING SUMMER 2017*/
 h5{
   margin-top:5px;
   color:#801924;
@@ -123,6 +134,7 @@ h5{
   text-align:left;
 }
 
+/*BACK TO ALL SHOES*/
 .white-link-color-background {
   color:white;
   font-family:sans-serif;
@@ -135,12 +147,14 @@ h5{
   margin-bottom:2%;
 }
 
+/*120 00*/
 .price-white{
   color:white;
   font-family:sans-serif;
   text-decoration:none;
 }
 
+/*blue n orange*/
 .shoe2{
   display:inline-block;
   width:25%;
@@ -150,6 +164,7 @@ h5{
   margin-bottom:50px;
 }
 
+/*red black n white*/
 .shoe3{
   display:inline-block;
   width:25%;
@@ -159,6 +174,7 @@ h5{
   margin-bottom:50px;
 }
 
+/*blue n white/ last shoe*/
 .shoe4{
   display:inline-block;
   width:25%;
