@@ -9,7 +9,7 @@ body{
   margin-left:50px;
   margin-top:50px;
   margin-right:auto;
-  border: 3px solid black;
+  /*border: 3px solid black;*/
 }
 
 .span-1-orange a{
@@ -20,7 +20,7 @@ body{
   font-family: sans-serif;
   text-decoration:none;
   text-align:center;
-  border: 3px solid black;
+  /*border: 3px solid black;*/
 }
 
 .span-2-pink a{
@@ -31,7 +31,7 @@ body{
   font-family:sans-serif;
   text-decoration:none;
   text-align:center;
-  border: 3px solid black;
+  /*border: 3px solid black;*/
 }
 
 .span-2-pink-help{
@@ -45,7 +45,7 @@ body{
   font-family:sans-serif;
   text-decoration:none;
   text-align:center;
-  border: 3px solid black;
+  /*border: 3px solid black;*/
 }
 
 a:hover{
@@ -150,8 +150,14 @@ h5{
 /*120 00*/
 .price-white{
   color:white;
+  font-size:75px;
   font-family:sans-serif;
   text-decoration:none;
+  padding:35px;
+}
+
+.price-white sup{
+  font-size:25px;
 }
 
 /*blue n orange*/
@@ -182,4 +188,12 @@ h5{
   margin-top:50px;
   margin-right:10%;
   margin-bottom:50px;
+}
+
+.buyNow{
+  display:inline-block;
+  padding:35px;
+  background-color:white;
+  color: #F44920;
+  border-radius:10%;
 }
