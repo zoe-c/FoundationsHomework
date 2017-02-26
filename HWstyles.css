@@ -98,12 +98,17 @@ h1{
 
 h2{
   color:#412A24;
+  font-size:50px;
   font-family: sans-serif;
 }
 
 .bottom-bar-container{
+  display:inline-block;
   background-color: #FCE5EB;
   text-align:center;
+  margin-top:auto;
+  margin-bottom:0px;
+  width:100%;
 }
 
 h3{
