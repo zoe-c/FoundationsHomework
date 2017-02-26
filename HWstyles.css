@@ -11,40 +11,52 @@ body{
   }*/
 
 .logo-shoe{
-  margin-left:40px;
-  margin-top:40px;
-  margin-right:20px;
   display:inline-block;
+  margin-left:50px;
+  margin-top:50px;
+  margin-right:auto;
+  border: 3px solid black;
 }
 
 .span-1-orange a{
+  display: inline-block;
   margin:auto;
   padding:10px;
   color: #F44920;
   font-family: sans-serif;
   text-decoration:none;
-  display: inline-block;
   text-align:center;
+  border: 3px solid black;
 }
 
 .span-2-pink a{
   display:inline-block;
+  margin:auto;
+  padding:10px;
   color:#F78688;
   font-family:sans-serif;
   text-decoration:none;
-  margin:20px 10px;
+  text-align:center;
+  border: 3px solid black;
 }
 
 .span-2-pink-help{
   display:inline-block;
+  margin-left:50%;
+  margin-top:auto;
+  margin-right:auto;
+  margin-bottom:auto;
+  padding:10px;
   color:#F78688;
   font-family:sans-serif;
   text-decoration:none;
-  margin-left:75%;
-  margin-top:20px;
+  text-align:center;
+  border: 3px solid black;
+}
+  /*margin-top:20px;
   margin-right:10px;
   margin-bottom:20px;
-}
+}*/
 a:hover{
   color:#9A1C03;
   text-decoration:underline;
