@@ -64,9 +64,9 @@ a:hover{
   margin-left:0px;
   margin-top:10px;
   margin-right:10%;
-  margin-bottom:20px;
+  margin-bottom:5%;
   width:30%;
-  border: 4px solid black;
+  /*border: 4px solid black;*/
 }
 
 .productDescription{
@@ -74,7 +74,7 @@ a:hover{
   color:white;
   font-family:sans-serif;
   font-size:35px;
-  border: 4px solid black;
+  /*border: 4px solid black;*/
 }
 
 .center-converse{
@@ -83,8 +83,8 @@ a:hover{
   margin-left:10%;
   margin-top:10px;
   margin-right:auto;
-  margin-bottom:20px;
-  border: 4px solid black;
+  margin-bottom:5%;
+  /*border: 4px solid black;*/
 }
 
 h1{
