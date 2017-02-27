@@ -80,6 +80,7 @@ a:hover{
   color:white;
   font-family:'Lato', sans-serif;
   font-size:35px;
+  line-height:75px;
   /*border: 4px solid black;*/
 }
 
@@ -91,6 +92,32 @@ a:hover{
   margin-right:auto;
   margin-bottom:5%;
   /*border: 4px solid black;*/
+}
+
+/*middle navigation pink/ underline hover*/
+.midNav{
+  border-bottom:5px solid #F78688;
+  margin-left:10%;
+  margin-right:10%;
+}
+.midNav a{
+  display:inline-block;
+  margin-top:100px;
+  color:#F78688;
+  font-family:'Lato', sans-serif;
+  text-decoration:none;
+  text-alignment:center;
+  font-size:40px;
+}
+
+/*.productDetails{
+  margin-left:10%;
+}*/
+.sizeFit{
+  margin-left:30px;
+}
+.reviews{
+  margin-left:75%;
 }
 
 /*h1 Quick Sneakers*/
@@ -106,6 +133,7 @@ h1{
 
 /*Exciting Topic/ Find Your Shoe Size/ What Our Customers are Saying*/
 h2{
+  margin-left:10%;
   color:#412A24;
   font-size:50px;
   font-family: 'Lato', sans-serif;
