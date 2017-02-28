@@ -72,18 +72,25 @@ a:hover{
   /*border: 4px solid black;*/
 }
 
-.topTextblock-a h5{
-  border-bottom:5px dashed #9A1D2A;
-  padding-bottom: 10px;
-}
-
 .productDescription{
   display:inline-block;
+  border-top:5px dashed #9A1D2A;
+  border-bottom:5px dashed #9A1D2A;
+  padding-top:60px;
+  padding-bottom: 30px;
   color:white;
   font-family:'Lato', sans-serif;
   font-size:35px;
   line-height:75px;
   /*border: 4px solid black;*/
+}
+
+.productDescription a{
+  display:inline-block;
+  text-align:right;
+  text-decoration:underline;
+  margin-left:70%;
+  color:#9A1C03;
 }
 
 .center-converse{
