@@ -54,6 +54,8 @@ a:hover{
 
 /*-----------------TOP Gradient Container-----------------*/
 .outerContainer1{
+  display:inline-block;
+  width:100%;
   background:linear-gradient(to right,#CD0063, #F53B09);
   padding:5px;
 }
@@ -150,6 +152,12 @@ h1{
   margin-left:75%;
 }
 
+/*-------------MIDDLE BODY SECTION----WHITE BACKGROUND---------------*/
+
+.middleContentWhite{
+  display:inline-block;
+  width:100%;
+}
 
 /*Exciting Topic/ Find Your Shoe Size/ What Our Customers are Saying*/
 h2{
@@ -269,3 +277,12 @@ h5{
   margin-right:10%;
   margin-bottom:100px;
 }*/
+
+
+/*----------FOOTER-----------*/
+
+.footerBarWhite{
+  display:inline-block;
+  width:100%;
+  height:184px;
+}
