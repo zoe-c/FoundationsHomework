@@ -52,6 +52,7 @@ body{
 a:hover{
   color:#9A1C03;
   text-decoration:underline;
+  font-weight:bold;
 }
 
 /*-----------------TOP Gradient Container-----------------*/
@@ -168,6 +169,7 @@ h2{
 
 /*Bottom Shoe Labels: Funny, Nimble, Cute*/
 h3{
+  display:inline-block;
   color:white;
   font-size:50px;
   font-family: 'Lato', sans-serif;
@@ -175,6 +177,7 @@ h3{
 
 /*SPRING SUMMER 2017*/
 h5{
+  display:inline-block;
   margin-top:5px;
   color:#801924;
   font-family:'Lato', sans-serif;
@@ -196,6 +199,7 @@ h5{
 
 /*120 00*/
 .price-white{
+  display:inline-block;
   color:white;
   font-size:75px;
   font-family:'Lato', sans-serif;
@@ -215,32 +219,46 @@ h5{
   width:100%;
 }
 
+.centerBottomShoes{
+  display:inline-block;
+  text-align:center;
+  width:80%;
+  margin-left:10%;
+  margin-right:10%;
+}
+
 /*blue n orange*/
 .shoe2{
   display:inline-block;
   width:25%;
-  margin-left:10%;
+  margin:auto;
+}
+  /*margin-left:10%;
   margin-top:100px;
   margin-right:auto;
   margin-bottom:100px;
-}
+}*/
 
 /*red black n white*/
 .shoe3{
   display:inline-block;
   width:25%;
-  margin-left:auto;
+  margin:auto;
+}
+  /*margin-left:auto;
   margin-top:100px;
   margin-right:auto;
   margin-bottom:100px;
-}
+}*/
 
 /*blue n white/ last shoe*/
 .shoe4{
   display:inline-block;
   width:25%;
-  margin-left:auto;
+  margin:auto;
+}
+  /*margin-left:auto;
   margin-top:100px;
   margin-right:10%;
   margin-bottom:100px;
-}
+}*/
